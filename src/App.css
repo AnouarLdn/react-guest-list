@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Rock+Salt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap');
+
+body {
+    background: pink;
+    font-family:'Rock Salt',cursive;
+}
+
+li {
+    font-family:'Anonymous Pro',cursive;
+    font-size: 20px;
+}
+
+li button {
+    background-color: yellow;
+}
+
+ul {
+    text-decoration: none;
+}
+
+.mainContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    background-color: #FFDFD3;
+    border-radius: 5px 20px 5px;;
+    align-items: center;
+    padding: 10px;
+};
+
+
+h1 {
+    text-align: center;
+}
+
+input {
+    width: 200px;
+    border-radius: 40px;
+    padding: 1%;
+}
