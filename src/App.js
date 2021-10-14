@@ -28,7 +28,7 @@ const deletePerson = (e) => {
 
 // JSX
     return(
-    <div className=" mainContainer ">
+    <div className="mainContainer">
         <h1>GUEST LIST</h1>
 
         <br/>
